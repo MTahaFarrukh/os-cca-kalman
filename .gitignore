@@ -1,0 +1,21 @@
+# build output
+build/
+build_ubuntu/
+bin_linux/
+*.o
+*.obj
+*.exe
+*.lib
+*.pdb
+*.ilk
+.vs/
+CMakeFiles/
+CMakeCache.txt
+
+# generated data (recreate with sensor_gen)
+data/*.bin
+
+# logs and temp files
+results/os_cca.log
+*.tmp
+__pycache__/

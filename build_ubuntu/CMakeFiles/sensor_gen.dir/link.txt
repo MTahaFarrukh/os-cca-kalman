@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sensor_gen.dir/common/sensor_gen.cpp.o -o sensor_gen  libos_common.a 

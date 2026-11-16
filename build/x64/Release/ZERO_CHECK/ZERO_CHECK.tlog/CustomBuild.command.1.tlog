@@ -1,0 +1,10 @@
+^D:\NED UNIVERSITY\FIFTH SEMESTER\OS\PROJECT\OS-CCA-KALMAN\BUILD\CMAKEFILES\DEC37EF84CC8DAA908CFD9FBC820F667\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/NED University/Fifth Semester/OS/Project/os-cca-kalman" "-BD:/NED University/Fifth Semester/OS/Project/os-cca-kalman/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/NED University/Fifth Semester/OS/Project/os-cca-kalman/build/os-cca-kalman.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

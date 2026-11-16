@@ -1,0 +1,8 @@
+D:/NED University/Fifth Semester/OS/Project/os-cca-kalman/build/CMakeFiles/os_common.dir
+D:/NED University/Fifth Semester/OS/Project/os-cca-kalman/build/CMakeFiles/sensor_gen.dir
+D:/NED University/Fifth Semester/OS/Project/os-cca-kalman/build/CMakeFiles/generate_data.dir
+D:/NED University/Fifth Semester/OS/Project/os-cca-kalman/build/CMakeFiles/os_platform_win.dir
+D:/NED University/Fifth Semester/OS/Project/os-cca-kalman/build/CMakeFiles/syscall_bench_win.dir
+D:/NED University/Fifth Semester/OS/Project/os-cca-kalman/build/CMakeFiles/kalman_win.dir
+D:/NED University/Fifth Semester/OS/Project/os-cca-kalman/build/CMakeFiles/ALL_BUILD.dir
+D:/NED University/Fifth Semester/OS/Project/os-cca-kalman/build/CMakeFiles/ZERO_CHECK.dir

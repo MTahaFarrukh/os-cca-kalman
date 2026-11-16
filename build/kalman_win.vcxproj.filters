@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\NED University\Fifth Semester\OS\Project\os-cca-kalman\windows\kalman_windows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\NED University\Fifth Semester\OS\Project\os-cca-kalman\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{517AD581-055D-3F2F-BB70-3AAB574FC924}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

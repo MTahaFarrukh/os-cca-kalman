@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/syscall_bench_linux.dir/linux/syscall_bench_linux.cpp.o -o syscall_bench_linux  libos_platform_linux.a libos_common.a 

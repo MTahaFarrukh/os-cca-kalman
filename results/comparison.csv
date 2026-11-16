@@ -1,0 +1,14 @@
+category,linux_call,windows_call,linux_avg_us,windows_avg_us,ratio_win_over_linux,faster_os
+File I/O,open,CreateFile,7.2372,69.1445,9.554,Linux
+File I/O,read,ReadFile,1.5294,40.7437,26.6403,Linux
+File I/O,write,WriteFile,0.2,15.4356,77.178,Linux
+File I/O,close,CloseHandle,6.8889,114.2611,16.5863,Linux
+Process,exec,CreateProcess,1221.3418,38805.9236,31.7732,Linux
+Process,wait,WaitForSingleObject,388.8852,39894.5892,102.5871,Linux
+Memory,mmap,VirtualAlloc,0.9821,6.6588,6.7802,Linux
+Memory,munmap,VirtualFree,1.4713,6.4871,4.4091,Linux
+IPC,pipe,CreatePipe,3.4096,27.0912,7.9456,Linux
+IPC,shmget,CreateFileMapping,5.3598,21.7564,4.0592,Linux
+IPC,shmat,MapViewOfFile,3.0037,7.9795,2.6566,Linux
+Permissions,chmod,SetFileSecurity,1.4361,135.6875,94.4833,Linux
+Permissions,chown,SetNamedSecurityInfoA,1.9897,269.9402,135.6688,Linux
