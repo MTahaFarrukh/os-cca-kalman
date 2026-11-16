@@ -1,8 +1,0 @@
-/mnt/d/NED University/Fifth Semester/OS/Project/os-cca-kalman/build_ubuntu/CMakeFiles/os_common.dir
-/mnt/d/NED University/Fifth Semester/OS/Project/os-cca-kalman/build_ubuntu/CMakeFiles/sensor_gen.dir
-/mnt/d/NED University/Fifth Semester/OS/Project/os-cca-kalman/build_ubuntu/CMakeFiles/generate_data.dir
-/mnt/d/NED University/Fifth Semester/OS/Project/os-cca-kalman/build_ubuntu/CMakeFiles/os_platform_linux.dir
-/mnt/d/NED University/Fifth Semester/OS/Project/os-cca-kalman/build_ubuntu/CMakeFiles/syscall_bench_linux.dir
-/mnt/d/NED University/Fifth Semester/OS/Project/os-cca-kalman/build_ubuntu/CMakeFiles/kalman_linux.dir
-/mnt/d/NED University/Fifth Semester/OS/Project/os-cca-kalman/build_ubuntu/CMakeFiles/edit_cache.dir
-/mnt/d/NED University/Fifth Semester/OS/Project/os-cca-kalman/build_ubuntu/CMakeFiles/rebuild_cache.dir

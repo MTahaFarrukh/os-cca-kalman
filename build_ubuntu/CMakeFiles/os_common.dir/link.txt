@@ -1,2 +1,0 @@
-/usr/bin/ar qc libos_common.a CMakeFiles/os_common.dir/common/kalman.cpp.o CMakeFiles/os_common.dir/common/logger.cpp.o
-/usr/bin/ranlib libos_common.a
